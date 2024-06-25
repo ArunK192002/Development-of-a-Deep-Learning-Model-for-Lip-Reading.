@@ -61,7 +61,9 @@ After training, you can evaluate the model on a test dataset. The notebook inclu
 
 ## References
 
-- [LipNet GitHub Repository](https://github.com/nicknochnack/LipNet)
+This project is inspired by and references the following resources:
+
+- [LipNet GitHub Repository](https://github.com/rizkiarm/LipNet)
 - [TensorFlow API Documentation](https://www.tensorflow.org/api_docs/python/tf)
 - [Original LipNet Paper](https://arxiv.org/abs/1611.01599)
 - [Associated Code for Paper](https://github.com/rizkiarm/LipNet)
@@ -71,5 +73,8 @@ After training, you can evaluate the model on a test dataset. The notebook inclu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments
 
-Ensure you have a `requirements.txt` file that lists all necessary dependencies. If you need help generating it, let me know!
+- The authors of the original LipNet paper.
+- The contributors to the associated code for the LipNet paper.
+- The TensorFlow and Keras teams for providing excellent machine learning frameworks.
